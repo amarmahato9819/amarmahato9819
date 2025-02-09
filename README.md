@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Amar Mahato  
 
-<!--
-**amarmahato9819/amarmahato9819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🖥️ **WordPress Developer** | Custom Themes & Plugins  
+- 🎨 **Graphic Designer** | UI/UX, Branding, Adobe Photoshop & Illustrator  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools  
+- **Web Development**: WordPress, PHP, JavaScript, MySQL, Elementor  
+- **Graphic Design**: Adobe Photoshop, Illustrator, Figma, Canva  
+
+---
